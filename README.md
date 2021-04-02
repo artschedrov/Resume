@@ -1,4 +1,4 @@
-# Artem Schedrov &middot; [![](https://img.shields.io/badge/-codewars-%23952c1f)](https://www.codewars.com/users/artshedrov)
+# Artem Schedrov &middot; [![](https://img.shields.io/badge/resume-hh-red)](https://novosibirsk.hh.ru/resume/b037fa4fff05568b360039ed1f4a71757a6263) [![](https://img.shields.io/badge/-codewars-%23952c1f)](https://www.codewars.com/users/artshedrov)
 
 ### Некоммерческие проекты:
 <div class="w3-responsive">
