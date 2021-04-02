@@ -14,7 +14,7 @@
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://github.com/artshedrov/proj-maket">Страничка магазина светотехничего оборудования</a></td>
+    <td><a href="https://github.com/artshedrov/proj-maket">Страничка магазина светотехнического оборудования</a></td>
     <td>https://github.com/artshedrov/proj-maket</td>
     <td>HTML, CSS(LESS), JS</td>
     <td align="center">Верстка</td>
