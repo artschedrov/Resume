@@ -19,6 +19,12 @@
     <td>HTML, CSS(LESS), JS</td>
     <td align="center">Верстка</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/artshedrov/kio-app">Энциклопедия карате Киокушинкай</a></td>
+    <td>https://kio-app-d36b2.web.app/</td>
+    <td>Angular 8, Firebase, Webpack, PWA</td>
+    <td align="center">Angular</td>
+  </tr>
 </tbody>
 </table>
 </font>
