@@ -16,6 +16,12 @@
 </thead>
 <tbody>
   <tr>
+    <td><a href="https://github.com/artshedrov/carrepair-maket">Страничка станции тех обслуживания</a></td>
+    <td>https://artshedrov.github.io/carrepair-static/</td>
+    <td>HTML, CSS(LESS), JS</td>
+    <td align="center">Верстка</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/artshedrov/proj-maket">Страничка магазина светотехнического оборудования</a></td>
     <td>https://github.com/artshedrov/proj-maket</td>
     <td>HTML, CSS(LESS), JS</td>
