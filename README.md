@@ -1,7 +1,7 @@
 # Artem Schedrov
 
-Codewars https://www.codewars.com/users/artshedrov.
-Мои посты на Habr https://habr.com/ru/users/artschedrov/posts/.
+* Codewars https://www.codewars.com/users/artshedrov
+* Мои посты на Habr https://habr.com/ru/users/artschedrov/posts/
 
 ### Некоммерческие проекты:
 <div class="w3-responsive">
@@ -10,7 +10,7 @@ Codewars https://www.codewars.com/users/artshedrov.
 <thead>
 <tr class="w3-white">
 <th width="30%">Проект</th>
-<th width="30%">Ссылка на прод</th>
+<th width="30%">Ссылка</th>
 <th width="40%">Технологии</th>
 <th>Категория</th>
 </tr>
