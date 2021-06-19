@@ -17,6 +17,18 @@
 </thead>
 <tbody>
   <tr>
+    <td><a href="https://github.com/artschedrov/linkedin-rework">Верстка макета под Angular - LinkedIn redisign</a></td>
+    <td>https://linkedinrework.firebaseapp.com/</td>
+    <td>Angular 12, Firebase, Webpack</td>
+    <td align="center">Angular</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/artshedrov/kio-app">Энциклопедия карате Киокушинкай</a></td>
+    <td>https://kio-app-d36b2.web.app/</td>
+    <td>Angular 8, Firebase, Webpack, PWA</td>
+    <td align="center">Angular</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/artshedrov/carrepair-maket">Страничка станции тех обслуживания</a></td>
     <td>https://artshedrov.github.io/carrepair-static/</td>
     <td>HTML, CSS(LESS), JS</td>
@@ -28,14 +40,9 @@
     <td>HTML, CSS(LESS), JS</td>
     <td align="center">Верстка</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/artshedrov/kio-app">Энциклопедия карате Киокушинкай</a></td>
-    <td>https://kio-app-d36b2.web.app/</td>
-    <td>Angular 8, Firebase, Webpack, PWA</td>
-    <td align="center">Angular</td>
-  </tr>
 </tbody>
 </table>
 </font>
 </div>
 </br>
+https://linkedinrework.firebaseapp.com/
