@@ -1,7 +1,7 @@
 # Artem Schedrov
 
 * Мои посты на Habr https://habr.com/ru/users/artschedrov/posts/
-* Codewars https://www.codewars.com/users/artshedrov
+* Codewars https://www.codewars.com/users/art.schedrov
 
 ### Некоммерческие проекты:
 <div class="w3-responsive">
@@ -17,7 +17,7 @@
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://github.com/Linotis">Свободный опен сорс по обучению языкам, на основе распознования рукописного текста(в стадии разработки MVP)</a></td>
+    <td><a href="https://github.com/Linotis">Свободный опен сорс проект, по обучению языкам, на основе распознования рукописного текста(в стадии разработки MVP)</a></td>
     <td>Первоначальный прототип на Angular: https://gitlab.com/kusarigama/alphabet</td>
     <td>Angular, MongoDB, Express</td>
     <td align="center">MEAN стек</td>
