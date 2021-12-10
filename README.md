@@ -17,7 +17,7 @@
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://github.com/Linotis">Проект по обучению языкам, на основе распознования рукописного текста(в стадии разработки MVP)</a></td>
+    <td><a href="https://github.com/Linotis">Свободный опен сорс по обучению языкам, на основе распознования рукописного текста(в стадии разработки MVP)</a></td>
     <td>Прототип на Angular: https://gitlab.com/kusarigama/alphabet</td>
     <td>Angular,MongoDB, Express</td>
     <td align="center">MEAN стек</td>
