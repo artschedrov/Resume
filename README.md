@@ -17,25 +17,25 @@
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://github.com/artschedrov/linkedin-rework">Верстка макета под Angular - LinkedIn redisign</a></td>
+    <td><a href="https://github.com/artschedrov/linkedin-rework">Верстка макета под Angular - LinkedIn redisign (вход art.worknsk@gmail.com / 666666)</a></td>
     <td>https://linkedinrework.firebaseapp.com/</td>
     <td>Angular 12, SCSS, Firebase, Webpack</td>
     <td align="center">Angular</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/artshedrov/kio-app">Энциклопедия карате Киокушинкай</a></td>
+    <td><a href="https://github.com/artschedrov/kio-app/">Энциклопедия карате Киокушинкай</a></td>
     <td>https://kio-app-d36b2.web.app/</td>
     <td>Angular 8, SCSS, Firebase, Webpack, PWA</td>
     <td align="center">Angular</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/artshedrov/carrepair-maket">Страничка станции тех обслуживания</a></td>
-    <td>https://artshedrov.github.io/carrepair-static/</td>
+    <td><a href="https://github.com/artschedrov/carrepair-maket/">Страничка станции тех обслуживания</a></td>
+    <td>https://artschedrov.github.io/carrepair-static/</td>
     <td>HTML, CSS(LESS), JS</td>
     <td align="center">Верстка</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/artshedrov/proj-maket">Страничка магазина светотехнического оборудования</a></td>
+    <td><a href="https://github.com/artschedrov/proj-maket/">Страничка магазина светотехнического оборудования</a></td>
     <td>https://artschedrov.github.io/proj-maket-static/</td>
     <td>HTML, CSS(LESS), JS</td>
     <td align="center">Верстка</td>
