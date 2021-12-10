@@ -19,7 +19,7 @@
   <tr>
     <td><a href="https://github.com/Linotis">Свободный опен сорс по обучению языкам, на основе распознования рукописного текста(в стадии разработки MVP)</a></td>
     <td>Первоначальный прототип на Angular: https://gitlab.com/kusarigama/alphabet</td>
-    <td>Angular,MongoDB, Express</td>
+    <td>Angular, MongoDB, Express</td>
     <td align="center">MEAN стек</td>
   </tr>
   <tr>
