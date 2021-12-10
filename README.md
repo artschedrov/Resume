@@ -17,7 +17,13 @@
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://github.com/artschedrov/linkedin-rework">Верстка макета под Angular - LinkedIn redisign (вход art.worknsk@gmail.com / 666666)</a></td>
+    <td><a href="https://github.com/Linotis">Проект по обучению языкам, на основе распознования рукописного текста(в стадии разработки MVP)</a></td>
+    <td>Прототип на Angular: https://gitlab.com/kusarigama/alphabet</td>
+    <td>Angular,MongoDB, Express</td>
+    <td align="center">MEAN стек</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/artschedrov/linkedin-rework">Верстка макета под Angular - LinkedIn redisign</a> (вход art.worknsk@gmail.com / 666666) </td>
     <td>https://linkedinrework.firebaseapp.com/</td>
     <td>Angular 12, SCSS, Firebase, Webpack</td>
     <td align="center">Angular</td>
@@ -27,6 +33,12 @@
     <td>https://kio-app-d36b2.web.app/</td>
     <td>Angular 8, SCSS, Firebase, Webpack, PWA</td>
     <td align="center">Angular</td>
+  </tr>
+  <tr>
+    <td>Несколько Nodejs консольных утилит</td>
+    <td><p>Погода на сегодня: https://github.com/artschedrov/weather-now</p><p>Новости с opennet: https://github.com/artschedrov/opennet-news-viewer</p><p>Youtube viewer: https://github.com/artschedrov/tube-viewer</p><p>Переводчик libre translate: https://github.com/artschedrov/libre-trans-cli</p></td>
+    <td>Node.js</td>
+    <td align="center">Node.js</td>
   </tr>
   <tr>
     <td><a href="https://github.com/artschedrov/carrepair-maket/">Страничка станции тех обслуживания</a></td>
