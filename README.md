@@ -40,18 +40,6 @@
     <td>Node.js</td>
     <td align="center">Node.js</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/artschedrov/carrepair-maket/">Страничка станции тех обслуживания</a></td>
-    <td>https://artschedrov.github.io/carrepair-static/</td>
-    <td>HTML, CSS(LESS), JS</td>
-    <td align="center">Верстка</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/artschedrov/proj-maket/">Страничка магазина светотехнического оборудования</a></td>
-    <td>https://artschedrov.github.io/proj-maket-static/</td>
-    <td>HTML, CSS(LESS), JS</td>
-    <td align="center">Верстка</td>
-  </tr>
 </tbody>
 </table>
 </font>
