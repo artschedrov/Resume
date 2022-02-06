@@ -9,7 +9,7 @@
 <table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
 <thead>
 <tr class="w3-white">
-<th width="30%">Проект</th>
+<th width="30%">Проект(репозиторий)</th>
 <th width="30%">Ссылка</th>
 <th width="40%">Технологии</th>
 <th>Категория</th>
@@ -17,16 +17,16 @@
 </thead>
 <tbody>
   <tr>
+    <td><a href="https://github.com/artschedrov/java-spring-api">Сервис на Java с REST API</a></td>
+    <td></td>
+    <td>Java Spring, Gradle, MySQL</td>
+    <td align="center">Java</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/Linotis">Свободный опен сорс проект, по обучению языкам, на основе распознования рукописного текста(в стадии разработки MVP)</a></td>
     <td>Первоначальный прототип на Angular: https://gitlab.com/kusarigama/alphabet</td>
     <td>Angular, MongoDB, Express</td>
     <td align="center">MEAN стек</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/artschedrov/linkedin-rework">Верстка макета под Angular - LinkedIn redisign</a> (вход art.worknsk@gmail.com / 666666) </td>
-    <td>https://linkedinrework.firebaseapp.com/</td>
-    <td>Angular 12, SCSS, Firebase, Webpack</td>
-    <td align="center">Angular</td>
   </tr>
   <tr>
     <td><a href="https://github.com/artschedrov/kio-app/">Энциклопедия карате Киокушинкай</a></td>
@@ -39,6 +39,12 @@
     <td><p>Погода на сегодня: https://github.com/artschedrov/weather-now</p><p>Новости с opennet: https://github.com/artschedrov/opennet-news-viewer</p><p>Youtube viewer: https://github.com/artschedrov/tube-viewer</p><p>Переводчик libre translate: https://github.com/artschedrov/libre-trans-cli</p></td>
     <td>Node.js</td>
     <td align="center">Node.js</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/artschedrov/linkedin-rework">Верстка макета под Angular - LinkedIn redisign</a> (вход art.worknsk@gmail.com / 666666) </td>
+    <td>https://linkedinrework.firebaseapp.com/</td>
+    <td>Angular 12, SCSS, Firebase, Webpack</td>
+    <td align="center">Angular</td>
   </tr>
 </tbody>
 </table>
