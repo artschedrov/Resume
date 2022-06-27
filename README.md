@@ -17,6 +17,12 @@
 </thead>
 <tbody>
   <tr>
+    <td><a href="https://github.com/artschedrov/orb">Веб менеджер серверов с поддержкой терминала</a></td>
+    <td></td>
+    <td>Java Spring, Maven, MySQL, Angular</td>
+    <td align="center">Java Spring</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/artschedrov/java-spring-api">Сервис на Java с REST API</a></td>
     <td></td>
     <td>Java Spring, Gradle, MySQL</td>
