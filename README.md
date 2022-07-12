@@ -1,7 +1,6 @@
 # Artem Schedrov
 
 * Мои посты на Habr https://habr.com/ru/users/artschedrov/posts/
-* Codewars https://www.codewars.com/users/art.schedrov
 
 ### Некоммерческие проекты:
 <div class="w3-responsive">
